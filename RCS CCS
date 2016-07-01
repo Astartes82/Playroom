@@ -2,7 +2,7 @@
     "room": "Player.me Playroom",
     "author": "Astartes82",
     "icon": "http://cdn8.staztic.com/app/i/8373/8373106/playerme-1-l-140x140.png",
-    "css": "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css": null,
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
